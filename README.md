@@ -1,2 +1,2 @@
-# YuriyKulakovskyi.github.io
+# yuriy-kulakovskyi.github.io
 My portfolio
